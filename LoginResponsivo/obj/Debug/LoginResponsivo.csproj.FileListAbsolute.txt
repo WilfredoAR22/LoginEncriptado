@@ -1,0 +1,16 @@
+C:\Users\wilfr\source\repos\LoginResponsivo\LoginResponsivo\bin\Debug\LoginResponsivo.exe.config
+C:\Users\wilfr\source\repos\LoginResponsivo\LoginResponsivo\bin\Debug\LoginResponsivo.exe
+C:\Users\wilfr\source\repos\LoginResponsivo\LoginResponsivo\bin\Debug\LoginResponsivo.pdb
+C:\Users\wilfr\source\repos\LoginResponsivo\LoginResponsivo\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\wilfr\source\repos\LoginResponsivo\LoginResponsivo\obj\Debug\LoginResponsivo.csproj.AssemblyReference.cache
+C:\Users\wilfr\source\repos\LoginResponsivo\LoginResponsivo\obj\Debug\LoginResponsivo.csproj.SuggestedBindingRedirects.cache
+C:\Users\wilfr\source\repos\LoginResponsivo\LoginResponsivo\obj\Debug\LoginResponsivo.Properties.Resources.resources
+C:\Users\wilfr\source\repos\LoginResponsivo\LoginResponsivo\obj\Debug\LoginResponsivo.csproj.GenerateResource.cache
+C:\Users\wilfr\source\repos\LoginResponsivo\LoginResponsivo\obj\Debug\LoginResponsivo.csproj.CoreCompileInputs.cache
+C:\Users\wilfr\source\repos\LoginResponsivo\LoginResponsivo\obj\Debug\LoginResponsivo.csproj.CopyComplete
+C:\Users\wilfr\source\repos\LoginResponsivo\LoginResponsivo\obj\Debug\LoginResponsivo.exe
+C:\Users\wilfr\source\repos\LoginResponsivo\LoginResponsivo\obj\Debug\LoginResponsivo.pdb
+C:\Users\wilfr\source\repos\LoginResponsivo\LoginResponsivo\obj\Debug\LoginResponsivo.frmLogin.resources
+C:\Users\wilfr\source\repos\LoginResponsivo\LoginResponsivo\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\wilfr\source\repos\LoginResponsivo\LoginResponsivo\obj\Debug\LoginResponsivo.Formularios.frmMenu.resources
+C:\Users\wilfr\source\repos\LoginResponsivo\LoginResponsivo\obj\Debug\LoginResponsivo.Formularios.frmRegistrar.resources
